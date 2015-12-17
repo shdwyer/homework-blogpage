@@ -1,0 +1,172 @@
+
+a{
+	text-decoration: none;
+}
+
+header{
+	background-color: #033048;
+	height: 100px;
+}
+
+header h1{
+	color: white;
+	font-size: 48px;
+ 	font-weight: 800;
+ 	padding-left: 50px;
+ 	padding-top: 50px;
+  	margin: 0px;
+  	width: 400px;
+  	display: inline;
+}
+
+header nav{
+	float: right;
+	padding-top:30px;
+	text-align: center;
+}
+header nav a{
+	color: #f9e42e;
+	font-weight: 600;
+	font-size: 24px;
+	float: left;
+	width: 150px;
+}
+
+article {
+	width: 700px;
+	float: left;
+	background-color: #f0efef;
+	padding-left: 50px;
+	padding-bottom: 200px;
+	overflow: auto;
+}
+
+article h1{
+	font-size: 40px;
+	font-weight: 600px;
+	color:  #033048;
+}
+
+article p{
+	font-size: 24px;
+	font-weight: 300;
+	color: #606161;
+}
+
+p:first-letter {
+    float: left;
+    font-size: 80px;
+    line-height: 1;
+    font-weight: bold;
+    margin-right: 9px;
+}
+
+article a{
+	font-size: 24px;
+	font-weight: 600;
+	color: #033048;
+	text-align: right;
+	display: block;
+}
+
+hr{
+	color: #033048;
+	size: 5px;
+}
+ aside {
+ 	float: left;
+ 	width: 240px;
+ 	background-color: #f0efef;
+ 	padding-left: 20px;
+ 	padding-right: 321px;
+ 	color: #033048;
+ }
+
+aside h1{
+	font-size: 32px;
+	font-weight: 800px;
+	
+}
+
+aside ul{
+	padding: 0px;
+	list-style-type: none;
+	margin-bottom: 50px;
+}
+
+
+aside ul li a{
+	text-decoration: none;
+	font-size: 24px;
+	font-weight: 300px;
+	color: #033048;
+	list-style-type: none;
+}
+
+aside h2{
+	font-size: 22px;
+	font-weight: 300;
+	margin-bottom: 0;
+}
+
+aside a{
+	font-size: 22px;
+	font-weight: 600;
+	text-decoration: none;
+	color: #033048;
+	margin-bottom: 50px;
+}
+
+aside img{
+	padding-top: 50px;
+	width: 240px;
+	padding-bottom: 720px;
+
+}
+.button {
+  display: block;
+  width: 280px;
+  padding: 12px 0;
+  border-radius: 5px;
+  text-align: center;
+  margin: 0 auto;
+  font-weight: 800;
+  font-size: 28px;
+  text-decoration: none;
+}
+
+section#cta{
+  background-color: #f9e42e;
+  padding: 30px;
+  clear: left;
+}
+
+section#cta a{
+  background-color: #033048;
+  color: white;
+}
+
+footer{
+   background-color: #121212;
+   text-align: center;
+   padding: 50px 410px;
+}
+
+footer h1{
+  font-size: 48px;
+  font-weight: 800;
+  color:#f9e42e;
+  margin:0;
+  padding-bottom: 100px;
+}
+
+footer img{
+  padding: 0px 20px;
+}
+
+footer h2{
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+  padding-top: 100px;
+}
